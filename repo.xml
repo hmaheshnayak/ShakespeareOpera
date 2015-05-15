@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Shakespeare Opera Omnia</description>
+    <author/>
+    <website/>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>shakespeareoperaomnia</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <deployed>2015-05-15T18:04:35.505+02:00</deployed>
+</meta>

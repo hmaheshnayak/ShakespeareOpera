@@ -1,0 +1,6 @@
+/* Application styles could go here */
+footer .poweredby { float: right; margin: 33px 10px 0 0;}
+footer .poweredby img { width: 120px; }
+.test{
+     position:absolute; left:20px; top :100px; border: 1px solid black; width :200px;height:500px
+}
